@@ -2,6 +2,7 @@
 
 The following repository implements a simple REST API written in Rust including:
 
-- Formatting
+- Health Endpoint
+- Code Formatting
 - Test Cases
 - Deployment
